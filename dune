@@ -1,0 +1,2 @@
+(executable
+  (name state_machine))
